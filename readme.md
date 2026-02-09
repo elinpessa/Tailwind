@@ -1,6 +1,8 @@
 ## Develop
 
-npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch# Tailwind
+``npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch# Tailwind``
+# Tailwind
+# Tailwind
 # Tailwind
 # Tailwind
 # Tailwind

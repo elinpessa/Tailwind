@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+    --font-petrona: 'Petrona', sans-serif;
+    --font-robotoflex: 'Robotoflex', sans-serif;
+}
