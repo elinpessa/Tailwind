@@ -178,8 +178,11 @@
   .relative {
     position: relative;
   }
-  .left-60 {
-    left: calc(var(--spacing) * 60);
+  .right-6 {
+    right: calc(var(--spacing) * 6);
+  }
+  .left-20 {
+    left: calc(var(--spacing) * 20);
   }
   .left-100 {
     left: calc(var(--spacing) * 100);
@@ -189,12 +192,6 @@
   }
   .grid {
     display: grid;
-  }
-  .max-w-100 {
-    max-width: calc(var(--spacing) * 100);
-  }
-  .max-w-110 {
-    max-width: calc(var(--spacing) * 110);
   }
   .max-w-120 {
     max-width: calc(var(--spacing) * 120);
@@ -232,8 +229,11 @@
   .pt-10 {
     padding-top: calc(var(--spacing) * 10);
   }
-  .pt-52 {
-    padding-top: calc(var(--spacing) * 52);
+  .pt-20 {
+    padding-top: calc(var(--spacing) * 20);
+  }
+  .pt-50 {
+    padding-top: calc(var(--spacing) * 50);
   }
   .pt-60 {
     padding-top: calc(var(--spacing) * 60);
